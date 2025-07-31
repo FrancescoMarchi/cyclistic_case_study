@@ -140,6 +140,10 @@ This project strengthened my skills in:
 
 ---
 
+> 🚨 Note: Raw data files are not included in this repository due to size and licensing considerations.
+> 
+> You can download the original datasets directly from [Divvy Bike Data Portal](https://divvy-tripdata.s3.amazonaws.com/index.html).
+
 ## 🔚 Version
 
 **Version:** `v1.2`  
