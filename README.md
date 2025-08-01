@@ -136,7 +136,7 @@ This project strengthened my skills in:
 
 ## 🔗 GitHub Repository
 
-> 📍 [[https://github.com/FrancescoMarchi/cyclistic-case-study](https://github.com/FrancescoMarchi/cyclistic-case-study)](https://github.com/FrancescoMarchi/cyclistic_case_study.git)
+> 📍 [[[https://github.com/FrancescoMarchi/cyclistic-case-study](https://github.com/FrancescoMarchi/cyclistic-case-study)](https://github.com/FrancescoMarchi/cyclistic_case_study.git)](https://github.com/FrancescoMarchi/cyclistic_case_study.git)
 
 ---
 
