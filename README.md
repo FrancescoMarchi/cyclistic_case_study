@@ -140,6 +140,11 @@ This project strengthened my skills in:
 
 ---
 
+To see the full project with data included, visit the Kaggle version:
+📁 [Cyclistic Case Study on Kaggle] https://www.kaggle.com/code/francescomarch/cyclistic-case-study
+
+---
+
 > 🚨 Note: Raw data files are not included in this repository due to size and licensing considerations.
 > 
 > You can download the original datasets directly from [Divvy Bike Data Portal](https://divvy-tripdata.s3.amazonaws.com/index.html).
